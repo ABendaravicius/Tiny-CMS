@@ -1,0 +1,14 @@
+{
+    "name": "arnas/cms_sp3",
+    "description": "phpCMS",
+    "type": "project",
+    "authors": [
+        {
+            "name": "ArnasBendaravicius",
+            "email": "arnasbendaravicius@gmail.com"
+        }
+    ],
+    "require": {
+        "doctrine/orm": "^2.7"
+    }
+}
